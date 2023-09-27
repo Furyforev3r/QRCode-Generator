@@ -4,7 +4,7 @@
 + **Download the requirements...**
 + **Runs:**
 ```bash
-main.p
+main.py
 ```
 ### 📝 | Requirements
 + **Python.**
