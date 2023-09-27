@@ -2,7 +2,7 @@
 **A simple QRCode generator made in python...**
 ## 🚀 | Quick Start
 + **Download the requirements...**
-+ **Run**
++ **Runs:**
 ```bash
 main.p
 ```
