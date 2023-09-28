@@ -8,4 +8,4 @@ main.py
 ```
 ### 📝 | Requirements
 + **Python.**
-+ **QRCode library 7.4.2 (```pip install qrcode```)**.
++ **QRCode library (```pip install qrcode```)**.
